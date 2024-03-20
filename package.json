@@ -1,0 +1,22 @@
+{
+  "name": "helpfulllteamatch",
+  "version": "1.0.0",
+  "description": "Add multiply function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spavlyshyn/helpfulllteamatch.git"
+  },
+  "dependencies":{
+    "tea-substractorrr": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spavlyshyn/helpfulllteamatch/issues"
+  },
+  "homepage": "https://github.com/spavlyshyn/helpfulllteamatch#readme"
+}
